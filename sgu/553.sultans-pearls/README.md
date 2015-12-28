@@ -1,6 +1,6 @@
 # SGU 553. Sultan's Pearls  
 
-### :white_medium_square: Accepted
+### Accepted :heavy_check_mark:
 
 ### Tags  
 - Binary Search
