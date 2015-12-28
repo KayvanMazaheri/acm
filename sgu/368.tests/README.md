@@ -1,6 +1,6 @@
 # SGU 368. Tests  
 
-### :white_medium_square: Accepted
+### Accepted :heavy_check_mark:
 
 ### Tags  
 - Implementation
